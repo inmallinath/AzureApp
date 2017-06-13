@@ -1,0 +1,10 @@
+/Users/Mallinath/WebApps/AzureApp/bin/Debug/netcoreapp1.1/AzureApp.db
+/Users/Mallinath/WebApps/AzureApp/bin/Debug/netcoreapp1.1/AzureApp.deps.json
+/Users/Mallinath/WebApps/AzureApp/bin/Debug/netcoreapp1.1/AzureApp.runtimeconfig.json
+/Users/Mallinath/WebApps/AzureApp/bin/Debug/netcoreapp1.1/AzureApp.runtimeconfig.dev.json
+/Users/Mallinath/WebApps/AzureApp/bin/Debug/netcoreapp1.1/AzureApp.dll
+/Users/Mallinath/WebApps/AzureApp/bin/Debug/netcoreapp1.1/AzureApp.pdb
+/Users/Mallinath/WebApps/AzureApp/obj/Debug/netcoreapp1.1/UserSecretsAssemblyInfo.cs
+/Users/Mallinath/WebApps/AzureApp/obj/Debug/netcoreapp1.1/AzureApp.AssemblyInfo.cs
+/Users/Mallinath/WebApps/AzureApp/obj/Debug/netcoreapp1.1/AzureApp.dll
+/Users/Mallinath/WebApps/AzureApp/obj/Debug/netcoreapp1.1/AzureApp.pdb
