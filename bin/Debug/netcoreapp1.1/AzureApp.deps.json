@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.1",
-    "signature": "55e2857bc2986235bcbde193eb346397d05c1bb6"
+    "signature": "16dfc664cbfca9c0ae5f12085dd9843c971fecc0"
   },
   "compilationOptions": {
     "defines": [
@@ -33,7 +33,6 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "1.1.1",
           "Microsoft.EntityFrameworkCore.Sqlite.Design": "1.1.1",
           "Microsoft.EntityFrameworkCore.Tools": "1.1.0",
-          "Microsoft.Extensions.Configuration.UserSecrets": "1.1.1",
           "Microsoft.Extensions.Logging.Debug": "1.1.1",
           "Microsoft.NETCore.App": "1.1.1",
           "Microsoft.VisualStudio.Web.BrowserLink": "1.1.0",
@@ -995,18 +994,6 @@
         },
         "compile": {
           "lib/netstandard1.3/Microsoft.Extensions.Configuration.Json.dll": {}
-        }
-      },
-      "microsoft.extensions.configuration.usersecrets/1.1.1": {
-        "dependencies": {
-          "Microsoft.Extensions.Configuration.Json": "1.1.1",
-          "NETStandard.Library": "1.6.1"
-        },
-        "runtime": {
-          "lib/netstandard1.5/Microsoft.Extensions.Configuration.UserSecrets.dll": {}
-        },
-        "compile": {
-          "lib/netstandard1.5/Microsoft.Extensions.Configuration.UserSecrets.dll": {}
         }
       },
       "microsoft.extensions.dependencyinjection/1.1.0": {
@@ -3776,13 +3763,6 @@
       "sha512": "sha512-eHjB+3cB0VNt8a166hpoGxm5c9BB2OTwIQu/qxIv36oYSR3/+ue25fnnbcyb/qRwEYok/SpTIuT7kKZbk7oUOw==",
       "path": "microsoft.extensions.configuration.json/1.1.1",
       "hashPath": "microsoft.extensions.configuration.json.1.1.1.nupkg.sha512"
-    },
-    "microsoft.extensions.configuration.usersecrets/1.1.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-+X7H2Mw1rSRxhya69drbywiXmYcYE8zz//mdWuxg3xU/QPdUdlnKkoi7Qrw+kdmqehVSqzkelbEw4rKJDglAXQ==",
-      "path": "microsoft.extensions.configuration.usersecrets/1.1.1",
-      "hashPath": "microsoft.extensions.configuration.usersecrets.1.1.1.nupkg.sha512"
     },
     "microsoft.extensions.dependencyinjection/1.1.0": {
       "type": "package",
